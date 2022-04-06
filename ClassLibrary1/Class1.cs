@@ -2,8 +2,6 @@
 {
     public class Class1
     {
-        //123
-
 
 
     }
